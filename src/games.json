@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "clumsy-bird",
+    "title": "Clumsy Bird",
+    "description": "Flappy Bird clone. How far can you fly?",
+    "thumbnail": "https://picsum.photos/seed/clumsybird/400/300",
+    "iframeUrl": "https://ellisonleao.github.io/clumsy-bird/",
+    "category": "Arcade"
+  },
+  {
+    "id": "pacman",
+    "title": "Google Pacman",
+    "description": "The classic arcade game in your browser.",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "category": "Classic"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game. Eat the apples and grow!",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://patorjk.com/games/snake/",
+    "category": "Classic"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world-famous block-stacking puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible.",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "iframeUrl": "https://paper-io.com/",
+    "category": "IO"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Speed down the slope in this endless runner.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "category": "Arcade"
+  }
+]
